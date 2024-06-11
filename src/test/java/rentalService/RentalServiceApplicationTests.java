@@ -1,4 +1,4 @@
-package pl.pjatk.RentalService;
+package rentalService;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

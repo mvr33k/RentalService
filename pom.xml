@@ -8,7 +8,7 @@
 		<version>3.3.0</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>pl.pjatk</groupId>
+	<groupId>rentalService</groupId>
 	<artifactId>RentalService</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>RentalService</name>
@@ -33,11 +33,11 @@
 			<artifactId>spring-boot-starter-web</artifactId>
 		</dependency>
 
-		<dependency>
-			<groupId>org.apache.httpcomponents.client5</groupId>
-			<artifactId>httpclient5</artifactId>
-			<version>5.1</version>
-		</dependency>
+<!--		<dependency>-->
+<!--			<groupId>org.apache.httpcomponents.client5</groupId>-->
+<!--			<artifactId>httpclient5</artifactId>-->
+<!--			<version>5.1</version>-->
+<!--		</dependency>-->
 	</dependencies>
 
 	<build>

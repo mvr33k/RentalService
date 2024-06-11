@@ -1,4 +1,4 @@
-package pl.pjatk.RentalService;
+package rentalService.model;
 
 //import jakarta.persistence.*;
 
